@@ -1,0 +1,135 @@
+WARNING - No random seed is specified. Setting to 2950893705.
+WARNING - using automatically assigned random_state=4226366175
+INFO - done splitting triples to groups of sizes [77730, 19092, 19092]
+WARNING - No random seed is specified. Setting to 2282256698.
+WARNING - No cuda devices were available. The model runs on CPU
+INFO - Using device: None
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+WARNING - Encountered tensors on device_types={'cpu'} while only ['cuda'] are considered safe for automatic memory utilization maximization. This may lead to undocumented crashes (but can be safe, too).
+WARNING - using automatically assigned random_state=688146965
+INFO - done splitting triples to groups of sizes [77733, 19092, 19092]
+WARNING - using automatically assigned random_state=811829549
+INFO - done splitting triples to groups of sizes [77731, 19092, 19092]
+WARNING - No random seed is specified. Setting to 1231299433.
+INFO - Using device: cpu
+WARNING - using automatically assigned random_state=3535945463
+INFO - done splitting triples to groups of sizes [77729, 19092, 19092]
+WARNING - No random seed is specified. Setting to 583728167.
+INFO - Using device: cpu
+WARNING - using automatically assigned random_state=2728823324
+INFO - done splitting triples to groups of sizes [77729, 19092, 19092]
+WARNING - No random seed is specified. Setting to 239152350.
+INFO - Using device: cpu
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+WARNING - Encountered tensors on device_types={'cpu'} while only ['cuda'] are considered safe for automatic memory utilization maximization. This may lead to undocumented crashes (but can be safe, too).
+WARNING - using automatically assigned random_state=2238813412
+INFO - done splitting triples to groups of sizes [2033, 506, 507]
+WARNING - No random seed is specified. Setting to 3844107953.
+INFO - Using device: cpu
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+WARNING - Encountered tensors on device_types={'cpu'} while only ['cuda'] are considered safe for automatic memory utilization maximization. This may lead to undocumented crashes (but can be safe, too).
+INFO - Evaluation took 0.37s seconds
+WARNING - using automatically assigned random_state=2376333913
+INFO - done splitting triples to groups of sizes [2034, 506, 507]
+WARNING - No random seed is specified. Setting to 2391225258.
+INFO - Using device: cpu
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+WARNING - Encountered tensors on device_types={'cpu'} while only ['cuda'] are considered safe for automatic memory utilization maximization. This may lead to undocumented crashes (but can be safe, too).
+INFO - Evaluation took 0.35s seconds
+WARNING - using automatically assigned random_state=2324536397
+INFO - done splitting triples to groups of sizes [2034, 506, 507]
+WARNING - No random seed is specified. Setting to 3051378134.
+INFO - Using device: cpu
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+WARNING - Encountered tensors on device_types={'cpu'} while only ['cuda'] are considered safe for automatic memory utilization maximization. This may lead to undocumented crashes (but can be safe, too).
+INFO - Evaluation took 0.35s seconds
+WARNING - using automatically assigned random_state=1050633736
+INFO - done splitting triples to groups of sizes [2033, 506, 507]
+WARNING - No random seed is specified. Setting to 3362682414.
+INFO - Using device: cpu
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+WARNING - Encountered tensors on device_types={'cpu'} while only ['cuda'] are considered safe for automatic memory utilization maximization. This may lead to undocumented crashes (but can be safe, too).
+INFO - Evaluation took 0.53s seconds
+WARNING - using automatically assigned random_state=415348305
+INFO - done splitting triples to groups of sizes [2034, 506, 507]
+WARNING - No random seed is specified. Setting to 326917730.
+INFO - Using device: cpu
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+WARNING - Encountered tensors on device_types={'cpu'} while only ['cuda'] are considered safe for automatic memory utilization maximization. This may lead to undocumented crashes (but can be safe, too).
+INFO - Evaluation took 0.35s seconds
+WARNING - using automatically assigned random_state=2451107309
+INFO - done splitting triples to groups of sizes [2034, 506, 507]
+WARNING - No random seed is specified. Setting to 3506719864.
+INFO - Using device: cpu
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+WARNING - Encountered tensors on device_types={'cpu'} while only ['cuda'] are considered safe for automatic memory utilization maximization. This may lead to undocumented crashes (but can be safe, too).
+WARNING - using automatically assigned random_state=2996235050
+INFO - done splitting triples to groups of sizes [2034, 506, 507]
+WARNING - No random seed is specified. Setting to 388799094.
+INFO - Using device: cpu
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+WARNING - Encountered tensors on device_types={'cpu'} while only ['cuda'] are considered safe for automatic memory utilization maximization. This may lead to undocumented crashes (but can be safe, too).
+INFO - Evaluation took 0.40s seconds
+WARNING - using automatically assigned random_state=2644939935
+INFO - done splitting triples to groups of sizes [2034, 506, 507]
+WARNING - No random seed is specified. Setting to 2247792003.
+INFO - Using device: cpu
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+WARNING - Encountered tensors on device_types={'cpu'} while only ['cuda'] are considered safe for automatic memory utilization maximization. This may lead to undocumented crashes (but can be safe, too).
+INFO - Evaluation took 0.34s seconds
+WARNING - using automatically assigned random_state=702435205
+INFO - done splitting triples to groups of sizes [2033, 506, 507]
+WARNING - No random seed is specified. Setting to 760252122.
+INFO - Using device: cpu
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+WARNING - Encountered tensors on device_types={'cpu'} while only ['cuda'] are considered safe for automatic memory utilization maximization. This may lead to undocumented crashes (but can be safe, too).
+INFO - Evaluation took 0.36s seconds
+WARNING - using automatically assigned random_state=538386496
+INFO - done splitting triples to groups of sizes [2033, 506, 507]
+WARNING - No random seed is specified. Setting to 935964877.
+INFO - Using device: cpu
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+WARNING - Encountered tensors on device_types={'cpu'} while only ['cuda'] are considered safe for automatic memory utilization maximization. This may lead to undocumented crashes (but can be safe, too).
+INFO - Evaluation took 0.34s seconds
+WARNING - using automatically assigned random_state=2264476103
+INFO - done splitting triples to groups of sizes [2034, 506, 507]
+WARNING - No random seed is specified. Setting to 4250410582.
+INFO - Using device: cpu
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+WARNING - Encountered tensors on device_types={'cpu'} while only ['cuda'] are considered safe for automatic memory utilization maximization. This may lead to undocumented crashes (but can be safe, too).
+INFO - Evaluation took 0.38s seconds
+WARNING - using automatically assigned random_state=3332728064
+INFO - done splitting triples to groups of sizes [2033, 506, 507]
+WARNING - No random seed is specified. Setting to 1831997505.
+INFO - Using device: cpu
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+WARNING - Encountered tensors on device_types={'cpu'} while only ['cuda'] are considered safe for automatic memory utilization maximization. This may lead to undocumented crashes (but can be safe, too).
+INFO - Evaluation took 1.32s seconds
+WARNING - using automatically assigned random_state=4067144533
+INFO - done splitting triples to groups of sizes [2034, 506, 507]
+WARNING - No random seed is specified. Setting to 1624913482.
+INFO - Using device: cpu
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+WARNING - Encountered tensors on device_types={'cpu'} while only ['cuda'] are considered safe for automatic memory utilization maximization. This may lead to undocumented crashes (but can be safe, too).
+INFO - Evaluation took 0.62s seconds
+WARNING - using automatically assigned random_state=1258575136
+INFO - done splitting triples to groups of sizes [2034, 506, 507]
+WARNING - No random seed is specified. Setting to 83245244.
+INFO - Using device: cpu
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+WARNING - Encountered tensors on device_types={'cpu'} while only ['cuda'] are considered safe for automatic memory utilization maximization. This may lead to undocumented crashes (but can be safe, too).
+INFO - Evaluation took 0.43s seconds
+WARNING - using automatically assigned random_state=1449495979
+INFO - done splitting triples to groups of sizes [2034, 506, 507]
+WARNING - No random seed is specified. Setting to 1065727073.
+INFO - Using device: cpu
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+WARNING - Encountered tensors on device_types={'cpu'} while only ['cuda'] are considered safe for automatic memory utilization maximization. This may lead to undocumented crashes (but can be safe, too).
+INFO - Evaluation took 0.34s seconds
+WARNING - using automatically assigned random_state=3894353484
+INFO - done splitting triples to groups of sizes [2034, 506, 507]
+WARNING - No random seed is specified. Setting to 3786608364.
+INFO - Using device: cpu
+INFO - When evaluating the test dataset, validation triples are added to the set of known positive triples which are filtered out when performing filtered evaluation following the approach described by (Bordes et al., 2013).
+WARNING - Encountered tensors on device_types={'cpu'} while only ['cuda'] are considered safe for automatic memory utilization maximization. This may lead to undocumented crashes (but can be safe, too).
+INFO - Evaluation took 0.34s seconds
